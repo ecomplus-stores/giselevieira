@@ -64,7 +64,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news"
+      "sort": "news",
+      "title": "Os mais desejados"
     },
     {
       "type": "breadcrumbs",
