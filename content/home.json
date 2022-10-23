@@ -58,30 +58,6 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-7-.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-5-.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
       "full_width": false
     }
   ]
