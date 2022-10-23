@@ -10,7 +10,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-4-.png"
+          "img": "/img/uploads/20220402_013106_0000.png"
         }
       ]
     },
@@ -42,6 +42,16 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-5-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-7-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-6-.png"
         }
       ]
     },
@@ -68,6 +78,11 @@
           "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-5-.png"
         }
       ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     }
   ]
 }
