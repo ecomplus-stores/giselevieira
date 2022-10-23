@@ -11,6 +11,11 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/20220402_013106_0000.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banho-e-tosa-banner.png"
         }
       ]
     },
@@ -22,8 +27,20 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-5-.png"
+          "img": "/img/uploads/banho-e-tosa-banner-1-.png"
         },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banho-e-tosa-banner-1-.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
         {
           "start": "",
           "end": "",
@@ -33,13 +50,23 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-6-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-5-.png"
         }
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }
