@@ -1,5 +1,5 @@
 {
   "css": "",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n\n<div class=\"elfsight-app-3f1fbbf3-72b0-46eb-b44a-795c43b34e16\"></div>"
 }
