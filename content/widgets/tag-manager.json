@@ -1,10 +1,10 @@
 {
   "pkg": "@ecomplus/widget-tag-manager",
-  "active": false,
+  "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": "",
+    "gtmContainerId": "<meta name=\"google-site-verification\" content=\"xT0FoFFpby_DT4gEyqDmW2KhYolQBtPKXeJLf3zcq2s\" />",
     "dataLayerVar": "dataLayer"
   },
   "headAppend": "src/append/head",
