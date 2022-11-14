@@ -45,22 +45,13 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-2240-1560-px-5-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-2240-1560-px-4-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-2240-1560-px-2-.png"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-2240-1560-px-.png",
+          "link": "https://www.giselevieira.com.br/ESQUENTA-BLACK-FRIDAY"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-2240-1560-px-1-.png",
           "link": "https://www.giselevieira.com.br/ESQUENTA-BLACK-FRIDAY"
         }
       ]
@@ -72,6 +63,28 @@
       "page": 1,
       "sort": "news",
       "title": "Os mais desejados"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-2240-1560-px-5-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-2240-1560-px-4-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-2240-1560-px-2-.png"
+        }
+      ]
     },
     {
       "type": "breadcrumbs",
