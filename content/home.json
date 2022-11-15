@@ -95,6 +95,19 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banho-e-tosa-banner-15-.png",
+          "link": "https://www.instagram.com/giselevieirastore/"
+        }
+      ]
     }
   ]
 }
