@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": "<meta name=\"google-site-verification\" content=\"xT0FoFFpby_DT4gEyqDmW2KhYolQBtPKXeJLf3zcq2s\" />",
+    "gtmContainerId": "<meta name=\"google-site-verification\" content=\"fA6M8z63hdlrV8vmIIMQ8knSOUWQ7E6L4N5SRl4p29I\" />",
     "dataLayerVar": "dataLayer"
   },
   "headAppend": "src/append/head",
