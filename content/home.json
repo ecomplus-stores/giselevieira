@@ -109,6 +109,38 @@
           "link": "https://www.instagram.com/giselevieirastore/"
         }
       ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_20221123_000714.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_20221123_000639.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_20221123_000551.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_20221123_000425.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_20221124_112320.jpg"
+        }
+      ]
     }
   ]
 }
