@@ -105,19 +105,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banho-e-tosa-banner-15-.png",
-          "link": "https://www.instagram.com/giselevieirastore/"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/img_20221123_000714.jpg"
         },
         {
@@ -139,6 +126,19 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/img_20221124_112320.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banho-e-tosa-banner-17-.png",
+          "link": "https://www.instagram.com/giselevieirastore/"
         }
       ]
     }
