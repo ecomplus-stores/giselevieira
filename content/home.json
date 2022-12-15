@@ -10,13 +10,18 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banho-e-tosa-banner-11-.png"
+          "img": "/img/uploads/img_20221215_093101.png"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/img_20221113_175408.png",
           "link": "https://www.giselevieira.com.br/pages/trocas"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_20221215_093113.png"
         }
       ]
     },
@@ -28,38 +33,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banho-e-tosa-banner-6-.png"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 5,
-      "page": 1,
-      "sort": "news",
-      "title": "Os mais desejados"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-2240-1560-px-5-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-2240-1560-px-4-.png",
-          "link": "https://www.giselevieira.com.br/brilha-brasil"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/blue-and-white-photo-frame-new-fashion-collection-preview-instagram-post-story-do-instagram-post-para-instagram-quadrado-banner-para-blog-2240-1560-px-2-.png"
+          "img": "/img/uploads/story-instagram-black-friday-post-para-instagram-quadrado-etiqueta-3-2-in-story-do-instagram-1920-520-px-1920-720-px-.png"
         }
       ]
     },
