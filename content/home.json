@@ -38,6 +38,13 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Os mais desejados!"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -90,13 +97,6 @@
           "link": "https://www.instagram.com/giselevieirastore/"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "title": "Os mais desejados!"
     }
   ]
 }
