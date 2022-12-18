@@ -42,7 +42,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "title": "Os mais desejados!"
+      "title": "Os mais desejados!",
+      "sort": "news"
     },
     {
       "type": "breadcrumbs",
