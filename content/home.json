@@ -40,7 +40,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 8,
       "page": 3,
       "title": "Os mais desejados!",
       "sort": "news",
