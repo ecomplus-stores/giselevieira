@@ -39,9 +39,9 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 8,
-      "page": 3,
+      "page": 4,
       "title": "Os mais desejados!",
       "sort": "news",
       "collection_id": null
