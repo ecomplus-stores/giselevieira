@@ -39,7 +39,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 8,
       "page": 4,
       "title": "Os mais desejados!",
