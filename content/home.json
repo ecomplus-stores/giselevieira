@@ -53,7 +53,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "banner-slider",
