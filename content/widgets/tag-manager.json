@@ -5,7 +5,8 @@
   "enableCheckout": true,
   "options": {
     "gtmContainerId": "GTM-WSS32DX",
-    "dataLayerVar": "dataLayer"
+    "dataLayerVar": "dataLayer",
+    "partytown": false
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body"
