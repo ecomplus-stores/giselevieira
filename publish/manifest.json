@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b9065d93afe3beea5d3d5601d8b0d23f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.541d910b0910544bc9ff99ca4d11f56b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.2106812bed0b500ac44ecf478554a16f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.53f48f9056ae35d3ac66404864ca881b.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.0f6b4d2013868a13c4b85e335f63db4d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "givieiramodafeminina",
+  "short_name": "giselevieira",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "giselevieira",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
